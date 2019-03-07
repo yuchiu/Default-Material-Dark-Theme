@@ -1,6 +1,7 @@
 {
   "name": "default-material-dark-theme",
-  "version": "0.0.1",
+  "displayName": "Default Material Dark Theme",
+  "version": "0.0.3",
   "description": "VS Code Theme, mix of Material Theme Darker with Default Dark + token colors",
   "repository": {
     "type": "git",
@@ -12,8 +13,8 @@
     "url": "https://github.com/yuchiu/Default-Material-Dark-Theme/issues"
   },
   "homepage": "https://github.com/yuchiu/Default-Material-Dark-Theme#readme",
-  "publisher": "yuchiu-theme",
-  "icon": "https://github.com/yuchiu/Default-Material-Dark-Theme/blob/master/images/icon.png",
+  "publisher": "yuchiu2002",
+  "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.0.0"
   },
@@ -28,5 +29,10 @@
         "path": "./themes/dark_plus.json"
       }
     ]
+  },
+  "__metadata": {
+    "id": "f88d485f-e8ba-490d-9e5f-48eea76f8564",
+    "publisherDisplayName": "yuchiu2002",
+    "publisherId": "3dbf6d83-98aa-4db6-9641-415de102b1bd"
   }
 }
