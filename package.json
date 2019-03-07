@@ -1,7 +1,7 @@
 {
   "name": "default-material-dark-theme",
   "version": "1.0.0",
-  "description": "VS Code theme extension of 'Material Theme Darker' color combining with 'Default Dark +' token color",
+  "description": "VS Code Theme, mix of Material Theme Darker with Default Dark + token colors",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/yuchiu/Default-Material-Dark-Theme.git"
