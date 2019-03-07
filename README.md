@@ -6,7 +6,7 @@ Material Theme Darker is one of my favortie dark theme. However its default toke
 
 Hope you find this combination of themes is enjoyable to code with!
 
-![demo-img](https://github.com/yuchiu/Default-Material-Dark-Theme/blob/master/demo.png)
+![demo-img](https://github.com/yuchiu/Default-Material-Dark-Theme/blob/master/images/demo.png)
 
 ## Get Started
 

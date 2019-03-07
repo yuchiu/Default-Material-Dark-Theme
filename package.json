@@ -1,6 +1,6 @@
 {
   "name": "default-material-dark-theme",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "VS Code Theme, mix of Material Theme Darker with Default Dark + token colors",
   "repository": {
     "type": "git",
@@ -12,7 +12,8 @@
     "url": "https://github.com/yuchiu/Default-Material-Dark-Theme/issues"
   },
   "homepage": "https://github.com/yuchiu/Default-Material-Dark-Theme#readme",
-  "publisher": "yuchiu2002",
+  "publisher": "yuchiu-theme",
+  "icon": "https://github.com/yuchiu/Default-Material-Dark-Theme/blob/master/images/icon.png",
   "engines": {
     "vscode": "^1.0.0"
   },
