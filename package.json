@@ -27,6 +27,11 @@
         "label": "Default Material Dark Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/dark_plus.json"
+      },
+      {
+        "label": "Default Material Dark Dimmed Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/material_darker_dimmed.json"
       }
     ]
   },
